@@ -6,6 +6,10 @@ This project implements an interactive rating component that allows users to rat
 
 The project includes HTML, CSS, and JavaScript files to create a simple and responsive rating component. Users can click on a rating (from 1 to 5) and submit their choice. Upon submission, a thank you message is displayed based on their rating selection.
 
+## Preview
+
+You can view the live demo of the interactive rating component [here](https://interactive-rating-component-mentor.netlify.app/).
+
 ## Files
 
 - `index.html`: Contains the structure of the rating component, including buttons for ratings and a thank you message.
@@ -33,7 +37,3 @@ You can view the live demo of the interactive rating component [here](https://in
 
 - Project challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub)
 - Coded by [Louai Khodary](#)
-
-## Author
-
-- [Louai Khodary](#) - GitHub: [github.com/LouaiKhodary13](https://github.com/LouaiKhodary13)
